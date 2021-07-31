@@ -1,0 +1,3 @@
+com\bjpowernode\dubbo\service\UserService.class
+com\bjpowernode\dubbo\impl\UserServiceImpl.class
+com\bjpowernode\dubbo\entity\User.class
